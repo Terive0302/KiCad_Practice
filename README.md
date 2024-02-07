@@ -6,4 +6,4 @@
 <br>
 Exam Imgs
 <br>
-![pcb](./img/Day1_2번 결과물 PCB도면.png)
+![pcb](./img/Day1_2번_결과물_PCB도면.png)
